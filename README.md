@@ -1,1 +1,0 @@
-# kupai_sdk

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KuPai_ads.iml" filepath="$PROJECT_DIR$/KuPai_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kupai_sdk.iml" filepath="$PROJECT_DIR$/kupai_sdk.iml" />
+    </modules>
+  </component>
+</project>
